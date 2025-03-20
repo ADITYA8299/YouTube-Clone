@@ -1,4 +1,4 @@
-YouTube Clone 🎥📺
+YouTube Clone 
 A fully responsive YouTube Clone built with React, and YouTube API, allowing users to search, view, and interact with videos dynamically.
 
 🔹 Features:
@@ -8,6 +8,6 @@ A fully responsive YouTube Clone built with React, and YouTube API, allowing use
 ✅ Responsive design for mobile and desktop
 
 🔧 Tech Stack:
-Frontend: React, Tailwind CSS
+Frontend: React
 API Integration: YouTube Data API v3
 Routing: React Router
