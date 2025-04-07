@@ -26,17 +26,21 @@ A fully responsive YouTube Clone built with React and YouTube API, allowing user
 
 ## 🔧 Installation:
 
-# Clone the repository
-git clone https://github.com/ADITYA8299/YouTube-Clone.git
+- Clone the repository:
+   ```bash
+    git clone https://github.com/ADITYA8299/YouTube-Clone.git
 
-# Navigate into the project directory
-cd YouTube-Clone
+- Navigate into the project folder:
+   ```bash
+    cd YouTube-Clone
 
-# Install dependencies
-npm install
+- Install dependencies:
+   ```bash
+    npm install
 
-# Get a YouTube API key from Google Cloud Console
+- Get a YouTube API key from Google Cloud Console
 
-# Run the development server
-npm run dev
+- Run the development server:
+  ```bash
+    npm run dev
 
