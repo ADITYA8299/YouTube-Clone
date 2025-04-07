@@ -2,6 +2,11 @@
 
 A fully responsive YouTube Clone built with React and YouTube API, allowing users to search, view, and interact with videos dynamically.
 
+## 🎥 Demo
+
+▶️ [Watch Demo](./screen-capture%20(3).webm)
+
+
 
 ##  🔹 Features:
 
